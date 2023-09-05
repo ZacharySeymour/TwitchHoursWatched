@@ -27,7 +27,9 @@ Here are the steps to run Jupyter notebook cells in command line:
 
 # Data: 
 Includes Top Twitch games from 2016 - 2023 and associated metrics.  
+
 You can download the dataset from here: 
+
 Source: https://www.kaggle.com/datasets/rankirsh/evolution-of-top-games-on-twitch?select=Twitch_game_data.csv
 
 # License
