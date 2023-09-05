@@ -24,5 +24,5 @@ Includes Top Twitch games from 2016 - 2023 and associated metrics.
 You can download the dataset from here: 
 Source: https://www.kaggle.com/datasets/rankirsh/evolution-of-top-games-on-twitch?select=Twitch_game_data.csv
 
-#License
+# License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
